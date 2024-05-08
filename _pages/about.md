@@ -18,39 +18,62 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Shaofei Cai, or 蔡少斐 in Chinese. You can contact me at caishaofei@stu.pku.edu.cn. I am currently pursuing my Ph.D. at the School of Intelligence Science and Technology, Peking University, under the supervision of Professor Yitao Liang. My journey began in 2022. Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University in 2019, followed by a Master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2022, under the guidance of Professor Liang Li. My primary research interests involve computer vision and decision-making. Currently, I am focused on building generally capable agents in open-world environments, such as Minecraft. Additionally, I am enthralled by graph neural architecture search. 
+My name is Zhongxiang Wang, or 王忠祥 in Chinese. You can contact me at zhongxiang521aa@gmail.com. I am currently pursuing my master degree at the School of Engineering And Applied Science, Department of Electrical and Systems Engineering, University of Pennsylvania. Prior to this, I earned my Bachelor's degree from The University of Iowa in 2022. My primary research interests involve computer vision, decision-making, optimization, and SAT solver. Currently, I am working on building Cube-and-Conquer SAT solver.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+| Date    | Award  | Contest & Project |
+| ---     | ---    | ---     |     
+| 2022.05 | Hourn Degree | ???? |
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='school-box'>
+<div><img src='images/pku.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2022.09 - now, PhD student
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+School of Artifical Intelligence
+
+Peking University, Beijing
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2019.09 - 2022.06, Master
+
+Institute of Computing Technology, Chinese Academy of Sciences
+
+University of Chinese Academy of Sciences, Beijing
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/xjtu.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2015.09 - 2019.06, Undergraduate
+
+Software College
+
+Xi'an Jiaotong University, Xi'an
+</div>
+</div>
+
+<!-- <img src='images/ucas.jpg' alt="sym" width="100">
+*2019.09 - 2022.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing. 
+<img src='images/xjtu.png' alt="sym" width="100">
+*2015.09 - 2019.06*, Undergraduate, Software College, Xi'an Jiaotong University, Xi'an.  -->
+
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+| Date    | Institution  | Group | Role | 
+| ---     | ---          | ---   | ---  |
+| 2022.06 - now | Beijing Institute for General Artificial Intelligence | Machine learning | Research Assistant |
+| 2020.10 - 2021.08 | Beijing Bytedance Technology Co. LTD | Image Generation | Computer Vision Intern | -->
