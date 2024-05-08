@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-My name is Zhongxiang Wang, or 王忠祥 in Chinese. You can contact me at zhongxiang521aa@gmail.com. I am currently pursuing my master degree at the School of Engineering And Applied Science, Department of Electrical and Systems Engineering, University of Pennsylvania. Prior to this, I earned my Bachelor's degree from The University of Iowa in 2022. My primary research interests involve computer vision, decision-making, optimization, and SAT solver. Currently, I am working on building Cube-and-Conquer SAT solver.
+My name is Zhongxiang Wang, or 王忠祥 in Chinese. You can contact me at zhongxiang521aa@gmail.com. I am currently pursuing my Electrical Engineering master's degree at the University of Pennsylvania. Prior to this, I earned my Computer Science and Mathematic Bachelor's degree from The University of Iowa in 2022. My primary research interests involve computer vision, decision-making, optimization, and SAT solver. Currently, I am working on building a Cube-and-Conquer SAT solver.
 
 # 🔥 News
 
@@ -32,36 +32,26 @@ My name is Zhongxiang Wang, or 王忠祥 in Chinese. You can contact me at zhong
 | 2022.05 | Hourn Degree | ???? |
 
 # 📖 Educations
-<div class='school-box'>
-<div><img src='images/pku.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-2022.09 - now, PhD student
-
-School of Artifical Intelligence
-
-Peking University, Beijing
-</div>
-</div>
 
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - 2022.06, Master
+2012.08 - 2024.05, Master
 
-Institute of Computing Technology, Chinese Academy of Sciences
+Department of Electrical and Systems Engineering， School of Engineering and Applied Sciences.
 
-University of Chinese Academy of Sciences, Beijing
+University of Pennsylvania, Philadelphia 
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/xjtu.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2015.09 - 2019.06, Undergraduate
+2017.08 - 2022.05, Undergraduate
 
-Software College
+College of Liberal Arts and Sciences.
 
-Xi'an Jiaotong University, Xi'an
+The University of Iowa, Iowa City
 </div>
 </div>
 
